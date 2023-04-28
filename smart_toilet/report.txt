@@ -1,0 +1,10 @@
+Info: Output directory 'D:\II_Projects\duke_smart_toilet\smart_toilet\schematic.pdf' created.
+Plotted to 'D:\II_Projects\duke_smart_toilet\smart_toilet\schematic.pdf\smart_toilet.pdf'.
+
+Plotted to 'D:\II_Projects\duke_smart_toilet\smart_toilet\schematic.pdf\smart_toilet.pdf'.
+
+Plotted to 'D:\II_Projects\duke_smart_toilet\smart_toilet\schematic.pdf\smart_toilet.pdf'.
+
+Info: Done.
+Info: Done.
+Info: Done.
